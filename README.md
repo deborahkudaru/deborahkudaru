@@ -7,7 +7,7 @@ Web2 and Web3 Developer
 I'm a Web2 developer turned Web3 builder with a passion for crafting seamless digital experiences. My journey started with React.js, JavaScript, and Tailwind CSS, but I’ve since expanded into blockchain development, focusing on smart contracts, NFTs, and decentralized applications (dApps).
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [My portfolio](http://main-portfolio-jade-seven.vercel.app/)
+*   🖥️  See my portfolio at [My portfolio](https://portfolio-blue-six-86.vercel.app/)
 *   ✉️  You can contact me at [deborahkudaru@gmail.com](mailto:deborahkudaru@gmail.com)
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on interesting open source projects### Skills 
